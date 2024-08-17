@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi There!
 
+My name is Amina Shellman, and this is my github profile. I have a portfolio at [My Portfolio](https://amina.dino.icu/)
+
+
+![amino47's Stats](https://github-readme-stats.vercel.app/api?username=amino47&theme=dracula&show_icons=true&hide_border=true&count_private=false)
+![amino47's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amino47&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 <!--
 **amino47/amino47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
