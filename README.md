@@ -21,7 +21,8 @@ I am a somewhat new developer, who mostly does this as a hobby.
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
                     </picture>
-                    </a></p>### Badges<b>My GitHub Stats</b><a
+                    </a></p>
+                    ### Badges<b>My GitHub Stats</b><a
                       href="http://www.github.com/amino47"><img src="https://github-readme-stats.vercel.app/api?username=amino47&show_icons=true&hide=&title_color=ec4899&text_color=ffffff&icon_color=facc15&bg_color=181824&hide_border=true&show_icons=true" alt="amino47's GitHub stats" /></a><a
                       href="http://www.github.com/amino47"><img
                   src="https://github-readme-streak-stats.herokuapp.com/?user=amino47&stroke=ffffff&background=181824&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/amino47" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amino47&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=facc15&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
