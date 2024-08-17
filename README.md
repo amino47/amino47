@@ -15,11 +15,11 @@ I am a somewhat new developer, who mostly does this as a hobby.
                   
                   
 <p align="left">
-                      <a href="https://www.github.com/amino47" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+<a href="https://www.github.com/amino47" target="_blank" rel="noreferrer">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
                     </picture>
                     </a></p>### Badges<b>My GitHub Stats</b><a
                       href="http://www.github.com/amino47"><img src="https://github-readme-stats.vercel.app/api?username=amino47&show_icons=true&hide=&title_color=ec4899&text_color=ffffff&icon_color=facc15&bg_color=181824&hide_border=true&show_icons=true" alt="amino47's GitHub stats" /></a><a
